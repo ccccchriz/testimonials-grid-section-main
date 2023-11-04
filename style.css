@@ -163,6 +163,7 @@ body {
   }
 
   .testimonials {
+    margin: 1rem;
     max-width: 95%;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas:
